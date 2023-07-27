@@ -390,7 +390,7 @@ export const ChatInput = ({
         </a> */}
         {' '}
         {t(
-          "This Chatbot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality - by Felix Lu",
+          "This Chatbot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality - by Felix Lu 吕澎霏",
         )}
       </div>
     </div>
