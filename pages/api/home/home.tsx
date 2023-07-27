@@ -361,15 +361,15 @@ const Home = ({
     >
       <Head>
         <title>Felix GPT</title>
-        <meta name="description" content="Free ChatGPT for my friends." />
+        <meta name="description" content="Free ChatGPT for my team." />
         <meta
           name="viewport"
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
         />
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Felix GPT" />
-        <meta property="og:description" content="Free ChatGPT for my friends." />
-        <meta property="og:image" content="/workspaces/chatbot-ui/public/brandmark-design.jpg" />
+        <meta property="og:description" content="Free ChatGPT for my team." />
+        <meta property="og:image" content="/chatbot-ui/public/brandmark-design (2).jpg" />
         {/* <!-- WeChat-specific Open Graph Protocol Tags --> */}
         <meta property="og:site_name" content="Felix GPT" />
         <meta property="og:type" content="website" />
