@@ -367,7 +367,7 @@ const Home = ({
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
         />
         <link rel="icon" href="/favicon.ico" />
-        <meta property="og:image" content="/favicon.ico" />
+        <meta property="og:image" content="/logopreview.png" />
       </Head>
       {selectedConversation && (
         <main
