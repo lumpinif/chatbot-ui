@@ -405,7 +405,10 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                         <Spinner size="16px" className="mx-auto" />
                       </div>
                     ) : (
-                      'Felix GPT'
+                      <div>
+                        <div>Felix GPT</div>
+                        <div className="text-sm text-gray-500">from 吕.Felix</div>
+                      </div>
                     )}
                   </div>
 

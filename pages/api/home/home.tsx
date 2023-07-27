@@ -368,7 +368,7 @@ const Home = ({
         />
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Felix GPT" />
-        <meta property="og:description" content="Free ChatGPT for my team." />
+        <meta property="og:description" content="Free ChatGPT for my team. —— from PF" />
         <meta property="og:image" content="https://www.openmindai.io/brandmark-design%20(2).jpg" />
         {/* <!-- WeChat-specific Open Graph Protocol Tags --> */}
         <meta property="og:site_name" content="Felix GPT" />
