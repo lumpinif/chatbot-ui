@@ -367,7 +367,7 @@ const Home = ({
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
         />
         <link rel="icon" href="/favicon.ico" />
-        <meta property="og:image" content="/logopreview.png" />
+        <meta property="og:image" content="/workspaces/chatbot-ui/public/brandmark-design.jpg" />
       </Head>
       {selectedConversation && (
         <main
