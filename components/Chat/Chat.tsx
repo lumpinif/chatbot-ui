@@ -407,7 +407,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                     ) : (
                       <div>
                         <div>Felix GPT</div>
-                        <div className="text-sm text-gray-500">from 吕.Felix</div>
+                        <div className="text-sm text-gray-500 italic">from 吕.Felix</div>
                       </div>
                     )}
                   </div>
