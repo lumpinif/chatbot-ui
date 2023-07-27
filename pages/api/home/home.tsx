@@ -373,7 +373,7 @@ const Home = ({
         {/* <!-- WeChat-specific Open Graph Protocol Tags --> */}
         <meta property="og:site_name" content="Felix GPT" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.openmindai.io/" />
+        <meta property="og:url" content="https://openmindai.io/" />
       </Head>
       {selectedConversation && (
         <main
