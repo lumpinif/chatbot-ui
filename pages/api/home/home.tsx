@@ -369,7 +369,7 @@ const Home = ({
         <link rel="icon" href="/favicon.ico" />
         <meta property="og:title" content="Felix GPT" />
         <meta property="og:description" content="Free ChatGPT for my team." />
-        <meta property="og:image" content="/chatbot-ui/public/brandmark-design (2).jpg" />
+        <meta property="og:image" content="public/brandmark-design (2).jpg" />
         {/* <!-- WeChat-specific Open Graph Protocol Tags --> */}
         <meta property="og:site_name" content="Felix GPT" />
         <meta property="og:type" content="website" />
